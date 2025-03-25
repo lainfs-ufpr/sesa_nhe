@@ -1,0 +1,20 @@
+[project]
+name = "nhe-teste"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "greenlet>=3.1.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "pathlib>=1.0.1",
+    "psycopg2-binary>=2.9.10",
+    "python-dateutil>=2.9.0.post0",
+    "pytz>=2025.1",
+    "simpledbf>=0.2.6",
+    "six>=1.17.0",
+    "sqlalchemy>=2.0.39",
+    "typing-extensions>=4.12.2",
+    "tzdata>=2025.2",
+]
